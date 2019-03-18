@@ -1,4 +1,5 @@
-https://travis-ci.com/hornjason/package-install-role.svg?branch=master
+[![Build Status](https://travis-ci.com/hornjason/package-install-role.svg?branch=master)](https://travis-ci.com/hornjason/package-install-role)
+
 Role Name
 =========
 
