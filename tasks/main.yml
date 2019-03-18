@@ -1,0 +1,7 @@
+---
+# tasks file for package-install-role
+- name: Install packages
+  package:
+    name: "{{ item  }}"
+    state: latest
+  loop: "{{ packages }}"
