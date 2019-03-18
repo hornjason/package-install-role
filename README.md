@@ -1,3 +1,4 @@
+https://travis-ci.com/hornjason/package-install-role.svg?branch=master
 Role Name
 =========
 
